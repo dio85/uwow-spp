@@ -3,6 +3,10 @@
 ==============*/
 
 #include "gate_setting_sun.h"
+#include "ScriptMgr.h"
+#include "CreatureAI.h"
+#include "SpellScript.h"
+#include "ScriptedCreature.h"
 
 enum spells
 {

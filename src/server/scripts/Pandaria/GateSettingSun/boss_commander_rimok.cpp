@@ -1,7 +1,11 @@
 /*==============
     uwow.biz
 ==============*/
-
+#include "CreatureAI.h"
+#include "ScriptMgr.h"
+#include "CombatAI.h"
+#include "UnitAI.h"
+#include "ScriptedCreature.h"
 #include "gate_setting_sun.h"
 
 enum eSpells

@@ -22,6 +22,7 @@
 #include "BattlegroundIsleOfConquest.h"
 #include "BattlegroundStrandOfTheAncients.h"
 #include "BattlegroundAlteracValley.h"
+#include "GameEventMgr.h"
 #include "Vehicle.h"
 
 class achievement_resilient_victory : public AchievementCriteriaScript

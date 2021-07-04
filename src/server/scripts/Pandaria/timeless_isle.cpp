@@ -1,4 +1,6 @@
 #include "ScriptMgr.h"
+#include "ScriptedEscortAI.h"
+#include "SpellScript.h"
 
 enum Says
 {

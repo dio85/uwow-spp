@@ -3,6 +3,12 @@
 ==============*/
 
 #include "gate_setting_sun.h"
+#include "InstanceScript.h"
+#include "ScriptMgr.h"
+#include "Creature.h"
+#include "ScriptedCreature.h"
+
+uint32 const EncounterCount;
 
 DoorData const doorData[] =
 {

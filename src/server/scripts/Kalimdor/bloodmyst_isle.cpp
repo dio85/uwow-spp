@@ -34,6 +34,9 @@ EndContentData */
 #include "ScriptedCreature.h"
 #include "ScriptedEscortAI.h"
 #include "ScriptedGossip.h"
+#include "Cell.h"
+#include "CellImpl.h"
+#include "GridNotifiers.h"
 #include "Player.h"
 #include "Group.h"
 
