@@ -2,6 +2,12 @@
 Pandaria
 World boss
 */
+#include "ScriptMgr.h"
+#include "CreatureAI.h"
+#include "CombatAI.h"
+#include "SpellScript.h"
+#include "ScriptedEscortAI.h"
+
 enum eBosses
 {
     BOSS_GALION,

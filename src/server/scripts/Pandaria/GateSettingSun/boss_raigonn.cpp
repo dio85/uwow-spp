@@ -3,6 +3,10 @@
 ==============*/
 
 #include "gate_setting_sun.h"
+#include "ScriptedCreature.h"
+#include "ScriptMgr.h"
+#include "UnitAI.h"
+#include "Vehicle.h"
 #include "Spline.h"
 
 enum eSpells

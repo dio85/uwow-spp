@@ -1,7 +1,10 @@
 #include "ScriptedEscortAI.h"
 #include "CreatureTextMgr.h"
 #include "MapManager.h"
+#include "ScriptedGossip.h"
+#include "Vehicle.h"
 #include "ScriptMgr.h"
+#include "Player.h"
 #include "Packets/WorldStatePackets.h"
 
 enum panda_npc

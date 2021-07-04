@@ -3,6 +3,9 @@
 ==============*/
 
 #include "gate_setting_sun.h"
+#include "SpellScript.h"
+#include "ScriptMgr.h"
+#include "ScriptedCreature.h"
 
 struct StrafPointStruct
 {
